@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeophieye.paperhub.cz/sitemap.xml
